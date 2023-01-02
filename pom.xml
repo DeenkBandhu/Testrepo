@@ -7,7 +7,7 @@
   <name>Archetype - Testprojectmvn1</name>
   <url>http://maven.apache.org</url>
 
-  <dependencies>
+  <dependencies> 
     <!-- https://mvnrepository.com/artifact/org.testng/testng -->
     <dependency>
       <groupId>org.testng</groupId>
